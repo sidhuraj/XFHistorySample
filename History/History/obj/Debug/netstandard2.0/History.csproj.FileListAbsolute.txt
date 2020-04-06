@@ -1,0 +1,16 @@
+C:\Users\santosh\source\repos\History\History\History\bin\Debug\netstandard2.0\History.deps.json
+C:\Users\santosh\source\repos\History\History\History\bin\Debug\netstandard2.0\History.dll
+C:\Users\santosh\source\repos\History\History\History\bin\Debug\netstandard2.0\ref\History.dll
+C:\Users\santosh\source\repos\History\History\History\bin\Debug\netstandard2.0\History.pdb
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\History.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\History.AssemblyInfo.cs
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\History.dll
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\ref\History.dll
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\History.pdb
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\History.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\History\History\History\obj\Debug\netstandard2.0\History.csproj.CoreCompileInputs.cache
